@@ -1,0 +1,2 @@
+news file in main
+before rebase
